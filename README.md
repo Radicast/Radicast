@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Radicast
 - 👀 I’m interested in a little bit of everything
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on a Honey pot
 - 📫 How to reach me you can reach me by Email Derrick.watson@wightman.ca
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: There’s a species of jellyfish that is biologically immortal: Turritopsis dohrnii can revert to its juvenile form after reaching maturity, potentially allowing it to avoid death from old age.
